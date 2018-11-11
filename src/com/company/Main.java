@@ -6,4 +6,5 @@ public class Main {
 	// write your code here
     }
     test1
+    test2
 }
