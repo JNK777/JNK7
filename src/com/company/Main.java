@@ -3,10 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	new brunch
+        // write your code here
+
+        System.out.println("Hello");
     }
-    test1
-    test2
-            test3
-    test4
 }
